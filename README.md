@@ -45,9 +45,9 @@ Strict filter:
   - insider signals  
   - big bet alerts  
 
-⚠️p.s: his bot does NOT prove insider trading⚠️
+⚠️p.s: bot does NOT prove insider trading⚠️
 It simply highlights wallet behavior patterns that may look unusual
 Sometimes it's very accurate
 Sometimes it's just a big degen ^-^
 
-⚠️p.s_2: if it doesn't work -  don't worry :-)
+⚠️p.s2: if it doesn't work -  don't worry :-)
